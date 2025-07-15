@@ -1,0 +1,500 @@
+USER PERSONA: kojied
+==================================================
+
+Analysis Date: 2025-07-15T12:21:31.105663
+Total Posts Analyzed: 115
+
+BASIC INFORMATION:
+------------------------------
+  Age Range: 18-25
+  Gender: male
+  Location: Unknown
+  Occupation: Professional/Working
+
+INTERESTS AND HOBBIES:
+------------------------------
+  • warriors
+  • Reading
+  • ChatGPT
+  • GenZ
+  • Interested
+  • Collect
+  • ManorLords
+  • AskNYC
+  • civ5
+  • Art
+  • Movies
+  • AskReddit
+  • Enjoy
+  • Travel
+  • Love
+  • OnePiece
+  • Music
+  • VisionPro
+  • FoodNYC
+
+PERSONALITY TRAITS:
+------------------------------
+  • Detailed/Thorough
+  • Curious/Inquisitive
+  • Optimistic
+
+COMMUNICATION STYLE:
+------------------------------
+  Conversational and detailed
+
+VALUES AND BELIEFS:
+------------------------------
+  • family
+  • creativity
+  • technology
+  • career
+  • health
+  • relationships
+  • education
+  • environment
+  • social justice
+
+TECHNOLOGY USAGE:
+------------------------------
+  Moderate technology user
+
+SOCIAL BEHAVIOR:
+------------------------------
+  Curious and inquisitive
+
+GOALS AND ASPIRATIONS:
+------------------------------
+  • hobbies
+  • financial
+  • relationships
+  • education
+  • career advancement
+  • personal growth
+  • travel
+  • health and fitness
+
+CHALLENGES AND PAIN POINTS:
+------------------------------
+  • time management
+  • work stress
+  • financial concerns
+  • decision making
+  • health issues
+  • social anxiety
+
+LIFESTYLE:
+------------------------------
+  Busy lifestyle
+
+CITATIONS:
+==================================================
+
+Basic Information:
+------------------------------
+  Characteristic: Age Range
+  Value: 18-25
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Gender
+  Value: male
+  Source: https://www.reddit.com/r/warriors/comments/1h9zxoq/wife_got_courtside_box_seats_from_her_company_and/m15gny0/
+  Context: comment on: wife got courtside box seats from her company and i somehow ended up here… apparantly you’re the top 1% here on reddit lolol...
+
+  Characteristic: Occupation
+  Value: Professional/Working
+  Source: https://www.reddit.com/r/seduction/comments/1gtot3j/hinge_dating_app_review_and_perspective/lxopx3y/
+  Context: comment on: hinge dating app review and perspective dating apps have been normalized but i still would prefer irl encounters compared to apps. apps also make you see dates as trivial, since there’s al...
+
+Interests and Hobbies:
+------------------------------
+  Characteristic: Interest
+  Value: civ5
+  Source: Multiple posts in r/civ5
+  Context: Posted 16 times in r/civ5
+
+  Characteristic: Interest
+  Value: AskReddit
+  Source: Multiple posts in r/AskReddit
+  Context: Posted 14 times in r/AskReddit
+
+  Characteristic: Interest
+  Value: AskNYC
+  Source: Multiple posts in r/AskNYC
+  Context: Posted 11 times in r/AskNYC
+
+  Characteristic: Interest
+  Value: ManorLords
+  Source: Multiple posts in r/ManorLords
+  Context: Posted 9 times in r/ManorLords
+
+  Characteristic: Interest
+  Value: warriors
+  Source: Multiple posts in r/warriors
+  Context: Posted 9 times in r/warriors
+
+  Characteristic: Interest
+  Value: OnePiece
+  Source: Multiple posts in r/OnePiece
+  Context: Posted 8 times in r/OnePiece
+
+  Characteristic: Interest
+  Value: VisionPro
+  Source: Multiple posts in r/VisionPro
+  Context: Posted 7 times in r/VisionPro
+
+  Characteristic: Interest
+  Value: ChatGPT
+  Source: Multiple posts in r/ChatGPT
+  Context: Posted 6 times in r/ChatGPT
+
+  Characteristic: Interest
+  Value: FoodNYC
+  Source: Multiple posts in r/FoodNYC
+  Context: Posted 4 times in r/FoodNYC
+
+  Characteristic: Interest
+  Value: GenZ
+  Source: Multiple posts in r/GenZ
+  Context: Posted 4 times in r/GenZ
+
+  Characteristic: Interest
+  Value: Enjoy
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Interest
+  Value: Music
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Interest
+  Value: Love
+  Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+  Context: comment on: nfts in 2025: where are we headed? \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on x, or even here  
+\- haven't seen much...
+
+  Characteristic: Interest
+  Value: Interested
+  Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+  Context: comment on: nfts in 2025: where are we headed? \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on x, or even here  
+\- haven't seen much...
+
+  Characteristic: Interest
+  Value: Collect
+  Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+  Context: comment on: nfts in 2025: where are we headed? \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on x, or even here  
+\- haven't seen much...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/
+  Context: comment on: i've been ripping on that part of zoro's backstory for literal decades, i must know if this is bullshit or not closest expression is naraku ochi 奈落落ち which means falling from the stage, us...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/ml31o85/
+  Context: comment on: to me the most impressive new feature is the character consistency it’s pretty hard to get consistent characters when they’re photorealistic tbh. i guess our eyes are more lenient when it’...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/civ5/comments/1jlw2ao/rate_my_starting_locaiton/mk73w0o/
+  Context: comment on: rate my starting locaiton can’t really discuss this without your strategy. if you’re setting up on the coast over river, your strategy must involve maritime trades. also means you benefit ...
+
+  Characteristic: Interest
+  Value: Interested
+  Source: https://www.reddit.com/r/AskReddit/comments/1i6rkdz/gamers_dont_say_the_title_of_the_game_but_what/m8gl211/
+  Context: comment on: gamers, dont say the title of the game, but what game is instantly recognized by one quote? would you be interested in a trade agreement with england?...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/aivideo/comments/1fidnz4/the_most_emotional_ai_film_youve_seen_yet_4/m4aby21/
+  Context: comment on: the most emotional ai film you've seen yet -- "4 minutes to live" -gen:48 the most unrealistic part is that 18k will get you a cafe in paris 🇫🇷 ...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/AskNYC/comments/1hntgrp/what_is_your_nyc_to_do_list_for_2025/m453mqo/
+  Context: comment on: what is your nyc “to do list” for 2025? cloisters, noguchi museum, more art galleries...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/ChatGPT/comments/1hh2q9r/voice_mode_has_been_brutally_nerfed/m2nxxav/
+  Context: comment on: voice mode has been brutally nerfed you can ask it to alter its speed and complexity of the response if you ask it to. it'll update its memory accordingly as well.   
+the problem i'm encou...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/
+  Context: comment on: flight @ deity the optimal strategy i've discovered is the following
+
+1. rush artist/writer slots and fill them
+2. rush renaissance era via acoustics
+3. bulb writer to fill rationalism slo...
+
+  Characteristic: Interest
+  Value: Enjoy
+  Source: https://www.reddit.com/r/China/comments/1h1smq1/whats_the_best_way_as_a_tourist_to_see_the/lze3b0d/
+  Context: comment on: what's the best way as a tourist to see the development of china in infrastructure and tech where it has surpassed usa ?  i’ve noticed this sub is pro-west leaning. if you want a pro-china...
+
+  Characteristic: Interest
+  Value: Travel
+  Source: https://www.reddit.com/r/AskNYC/comments/1gx5sln/has_air_travel_gotten_worse/lyei609/
+  Context: comment on: has air travel gotten worse?  my personal experience has definitely gotten worse.
+flight delays are expected at this point, fleets are older with louder engines and narrower cabins, and ov...
+
+  Characteristic: Interest
+  Value: Love
+  Source: https://www.reddit.com/r/VisionPro/comments/1gw2bof/should_i_get_one/ly658s7/
+  Context: comment on: should i get one? i’m not using it as frequently as i had wished. the battery life is too low to use while flying (even with the extra battery bank it won’t last a full cross country fligh...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/warriors/comments/1gr4uix/the_shining_triplets_defense/lx3tz1r/
+  Context: comment on: the shining triplets defense the crazy part is that they still couldn’t get a stop on this play!...
+
+  Characteristic: Interest
+  Value: Interested
+  Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+  Context: comment on: i want to be more conventionally attractive, you guys got any ideas or advice for grooming and dressing? first of all you look good! but if you want to become more "conventionally attracti...
+
+  Characteristic: Interest
+  Value: Reading
+  Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+  Context: comment on: i want to be more conventionally attractive, you guys got any ideas or advice for grooming and dressing? first of all you look good! but if you want to become more "conventionally attracti...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+  Context: comment on: i want to be more conventionally attractive, you guys got any ideas or advice for grooming and dressing? first of all you look good! but if you want to become more "conventionally attracti...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/civ5/comments/1fw0b0w/is_the_great_library_really_not_worth_it_has_my/lqb18ti/
+  Context: comment on: is the great library really not worth it? has my life been a lie? there are some key technologies which can give you significant advantage in the early game, either in military or in scien...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/NFT/comments/1fg5e27/marvel_and_disney_nfts_promising_true_ownership/lmzqdsj/
+  Context: comment on: marvel and disney nfts promising true ownership still trapped in veve's walled garden the founders may have had good intentions, but they definitely didn’t deliver on them. as for the bran...
+
+  Characteristic: Interest
+  Value: Enjoy
+  Source: https://www.reddit.com/r/GenZ/comments/1f2ngkc/have_you_ever_met_any_non_missionary_mormons_if/lk7nzon/
+  Context: comment on: have you ever met any non missionary mormons? if so what was your impression of them? had some in my school (masters program). very positive and fun people to be around. pretty racially di...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/GenZ/comments/1f2ngkc/have_you_ever_met_any_non_missionary_mormons_if/lk7nzon/
+  Context: comment on: have you ever met any non missionary mormons? if so what was your impression of them? had some in my school (masters program). very positive and fun people to be around. pretty racially di...
+
+  Characteristic: Interest
+  Value: Love
+  Source: https://www.reddit.com/r/BurningMan/comments/1eto5ep/in_order_to_be_more_transparent_we_have_decided/lifmwrz/
+  Context: comment on: in order to be more transparent, we have decided at midnight poutine to release information about our line-up for 2024 earlier than usual.
+ i love that considering this was at bm she could...
+
+  Characteristic: Interest
+  Value: Movies
+  Source: https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+  Context: what’s a movie that best represents your childhood? there's so many coming of age movies for boomers and millennials, what about for gen-z?...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
+  Context: 【theory】 what if we live in the void 800 century let’s say the wg is the current western civilization. 
+
+the birth of western history is in the middle east, specifically iraq (nippur). which is why th...
+
+  Characteristic: Interest
+  Value: Love
+  Source: https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+  Context: how do you decide what to buy and not buy? i've been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money. this got me thin...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/
+  Context: english ivy in critical condition i’ve had this baby for two months now, and all of a sudden it started to wither on me. i soaked it in water 3 days ago, but it doesn’t seem to be doing any better…...
+
+Personality Traits:
+------------------------------
+  Characteristic: Detailed/Thorough
+  Value: True
+  Source: Writing pattern analysis
+  Context: 39/115 posts are detailed (>200 chars)
+
+  Characteristic: Curious/Inquisitive
+  Value: True
+  Source: Content analysis
+  Context: 64/115 posts contain questions
+
+  Characteristic: Optimistic
+  Value: True
+  Source: Language analysis
+  Context: Uses positive language more frequently (11 vs 3)
+
+Communication Style:
+------------------------------
+  Characteristic: Communication Style
+  Value: Conversational and detailed
+  Source: Language pattern analysis
+  Context: Average post length: 281 chars, Formal: 0, Informal: 31
+
+Values and Beliefs:
+------------------------------
+  Characteristic: Value
+  Value: family
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Value
+  Value: creativity
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Value
+  Value: technology
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Value
+  Value: career
+  Source: https://www.reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+  Context: comment on: anyone else having an issue where their trading posts randomly disconnect from the road network? yeah but it doesn’t seem to affect much though...
+
+  Characteristic: Value
+  Value: health
+  Source: https://www.reddit.com/r/AskNYC/comments/1haran2/if_i_created_a_memorial_for_all_those_denied/m1ax9to/
+  Context: comment on: if i created a memorial for all those denied health care by for profit insurance companies, would you come by and leave flowers? i’m down to help! do it at wsp and put up fliers around the...
+
+  Characteristic: Value
+  Value: relationships
+  Source: https://www.reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/
+  Context: comment on: flight @ deity the optimal strategy i've discovered is the following
+
+1. rush artist/writer slots and fill them
+2. rush renaissance era via acoustics
+3. bulb writer to fill rationalism slo...
+
+  Characteristic: Value
+  Value: education
+  Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+  Context: comment on: i want to be more conventionally attractive, you guys got any ideas or advice for grooming and dressing? first of all you look good! but if you want to become more "conventionally attracti...
+
+  Characteristic: Value
+  Value: environment
+  Source: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+  Context: tracking our individual impacts on the world through esg ratings &amp;#x200b;
+
+[mock-up of esg scores ](https://preview.redd.it/btc0a5nqmhjb1.png?width=632&amp;format=png&amp;auto=webp&amp;s=13920d7c8...
+
+  Characteristic: Value
+  Value: social justice
+  Source: https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+  Context: tracking our individual impacts on the world through esg ratings &amp;#x200b;
+
+[mock-up of esg scores ](https://preview.redd.it/btc0a5nqmhjb1.png?width=632&amp;format=png&amp;auto=webp&amp;s=13920d7c8...
+
+Technology Usage:
+------------------------------
+  Characteristic: Technology Usage
+  Value: Moderate technology user
+  Source: Content analysis
+  Context: 30/115 posts are tech-related
+
+Social Behavior:
+------------------------------
+  Characteristic: Social Behavior
+  Value: Curious and inquisitive
+  Source: Interaction pattern analysis
+  Context: Help: 8, Discussion: 15, Questions: 64 out of 115
+
+Goals and Aspirations:
+------------------------------
+  Characteristic: Goal
+  Value: hobbies
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Goal
+  Value: financial
+  Source: https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/
+  Context: comment on: i used ai to create this short film on human cloning (600 prompts, 12 days, $500 budget) incredible stuff! how did you maintain character consistency? did you generate a consistent charact...
+
+  Characteristic: Goal
+  Value: relationships
+  Source: https://www.reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/
+  Context: comment on: am i doing something wrong with food management? i never have meat or eggs. so in general each family will eat each type of food equally. which means those with low supply are more likely ...
+
+  Characteristic: Goal
+  Value: education
+  Source: https://www.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+  Context: comment on: nfts in 2025: where are we headed? \- the hype has definitely faded, you can see that with the price as well as the number of people discussing it on x, or even here  
+\- haven't seen much...
+
+  Characteristic: Goal
+  Value: career advancement
+  Source: https://www.reddit.com/r/civ5/comments/1iuhdh9/dude_tf/mdxgebg/
+  Context: comment on: dude tf this happens when you are in an advanced technological era than the ai. you can adjust to only give them gold, or other resources which you might not need (e.g. iron/coal)....
+
+  Characteristic: Goal
+  Value: personal growth
+  Source: https://www.reddit.com/r/warriors/comments/1hq7r88/can_someone_explain_why_lindy_is_out_there_over/m4prpxf/
+  Context: comment on: can someone explain why lindy is out there over kyle? he used to shoot well and have impact when no one had him on the radar, and opponents didn’t have him on their scouting report.
+now th...
+
+  Characteristic: Goal
+  Value: travel
+  Source: https://www.reddit.com/r/AskNYC/comments/1gx5sln/has_air_travel_gotten_worse/lyei609/
+  Context: comment on: has air travel gotten worse?  my personal experience has definitely gotten worse.
+flight delays are expected at this point, fleets are older with louder engines and narrower cabins, and ov...
+
+  Characteristic: Goal
+  Value: health and fitness
+  Source: https://www.reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+  Context: comment on: i want to be more conventionally attractive, you guys got any ideas or advice for grooming and dressing? first of all you look good! but if you want to become more "conventionally attracti...
+
+Challenges and Pain Points:
+------------------------------
+  Characteristic: Challenge
+  Value: time management
+  Source: https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+  Context: i feel violated by intern season there's this bar that i frequent a few blocks away from my house. technically different neighborhood, but generally has a mature vibe with people who like music and to...
+
+  Characteristic: Challenge
+  Value: work stress
+  Source: https://www.reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+  Context: comment on: anyone else having an issue where their trading posts randomly disconnect from the road network? yeah but it doesn’t seem to affect much though...
+
+  Characteristic: Challenge
+  Value: financial concerns
+  Source: https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/
+  Context: comment on: i used ai to create this short film on human cloning (600 prompts, 12 days, $500 budget) incredible stuff! how did you maintain character consistency? did you generate a consistent charact...
+
+  Characteristic: Challenge
+  Value: decision making
+  Source: https://www.reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/
+  Context: comment on: am i doing something wrong with food management? i never have meat or eggs. so in general each family will eat each type of food equally. which means those with low supply are more likely ...
+
+  Characteristic: Challenge
+  Value: health issues
+  Source: https://www.reddit.com/r/ChatGPTJailbreak/comments/1jliha3/i_cant_believe_i_made_it_do_this_note_i_do_not/mk4no36/
+  Context: comment on: i cant believe i made it do this. note: i do not endorse this painter or his thought!! imagine making 60fps videos with photos from oai images. nothing on the internet can be trusted...
+
+  Characteristic: Challenge
+  Value: social anxiety
+  Source: https://www.reddit.com/r/civ5/comments/1hp1es7/forward_settle_on_deity/m4dyqsa/
+  Context: comment on: forward settle on deity  also left, considering there’ll be an awkward gap between your 3rd city, where ai civs will most likely try to spam settlers into if you’re not careful...
+
+Lifestyle:
+------------------------------
+  Characteristic: Lifestyle
+  Value: Busy lifestyle
+  Source: Content analysis
+  Context: Lifestyle indicators: {'active': 7, 'social': 3, 'homebody': 3, 'busy': 11, 'relaxed': 5}
+

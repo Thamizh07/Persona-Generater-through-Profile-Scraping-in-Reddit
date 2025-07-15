@@ -1,0 +1,156 @@
+USER PERSONA: Hungry-Move-6603
+==================================================
+
+Analysis Date: 2025-07-15T12:20:44.265905
+Total Posts Analyzed: 12
+
+BASIC INFORMATION:
+------------------------------
+  Age Range: Unknown
+  Gender: Unknown
+  Location: Unknown
+  Occupation: Unknown
+
+INTERESTS AND HOBBIES:
+------------------------------
+  • nagpur
+  • lucknow
+  • Art
+
+PERSONALITY TRAITS:
+------------------------------
+  • Curious/Inquisitive
+
+COMMUNICATION STYLE:
+------------------------------
+  Casual and concise
+
+VALUES AND BELIEFS:
+------------------------------
+  • creativity
+  • health
+  • relationships
+
+TECHNOLOGY USAGE:
+------------------------------
+  Basic technology user
+
+SOCIAL BEHAVIOR:
+------------------------------
+  Curious and inquisitive
+
+GOALS AND ASPIRATIONS:
+------------------------------
+  • financial
+  • health and fitness
+
+CHALLENGES AND PAIN POINTS:
+------------------------------
+  • financial concerns
+  • health issues
+
+LIFESTYLE:
+------------------------------
+  Homebody lifestyle
+
+CITATIONS:
+==================================================
+
+Interests and Hobbies:
+------------------------------
+  Characteristic: Interest
+  Value: lucknow
+  Source: Multiple posts in r/lucknow
+  Context: Posted 7 times in r/lucknow
+
+  Characteristic: Interest
+  Value: nagpur
+  Source: Multiple posts in r/nagpur
+  Context: Posted 2 times in r/nagpur
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+  Context: comment on: people are smoking hookah in the middle of the ganga river, and when a local uttarakhand boy tried to make them understand, they started abusing him and even threatened to kill him. toh hu...
+
+  Characteristic: Interest
+  Value: Art
+  Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hvomb/
+  Context: comment on: any tiffin service providing high quality food ? tired of the poor quality ingredients and taste same problem. i started eating power meals at home atleast saves me from crap quality. i ev...
+
+Personality Traits:
+------------------------------
+  Characteristic: Curious/Inquisitive
+  Value: True
+  Source: Content analysis
+  Context: 5/12 posts contain questions
+
+Communication Style:
+------------------------------
+  Characteristic: Communication Style
+  Value: Casual and concise
+  Source: Language pattern analysis
+  Context: Average post length: 127 chars, Formal: 0, Informal: 1
+
+Values and Beliefs:
+------------------------------
+  Characteristic: Value
+  Value: creativity
+  Source: https://www.reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/
+  Context: comment on: people are smoking hookah in the middle of the ganga river, and when a local uttarakhand boy tried to make them understand, they started abusing him and even threatened to kill him. toh hu...
+
+  Characteristic: Value
+  Value: health
+  Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+  Context: comment on: any tiffin service providing high quality food ? tired of the poor quality ingredients and taste a menu easy to cook/process - healthy and quick....
+
+  Characteristic: Value
+  Value: relationships
+  Source: https://www.reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/
+  Context: comment on: a 45 year old man is harassing me. dont you have big muscle brothers or friends? or cop/lawyer friends? my hands are always itching to teach a lesson to such people....
+
+Technology Usage:
+------------------------------
+  Characteristic: Technology Usage
+  Value: Basic technology user
+  Source: Content analysis
+  Context: 1/12 posts are tech-related
+
+Social Behavior:
+------------------------------
+  Characteristic: Social Behavior
+  Value: Curious and inquisitive
+  Source: Interaction pattern analysis
+  Context: Help: 0, Discussion: 2, Questions: 5 out of 12
+
+Goals and Aspirations:
+------------------------------
+  Characteristic: Goal
+  Value: financial
+  Source: https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+  Context: comment on: a very odd experience i was caught without helmet and license (close to my home). cops outright wanted to fine me, but a 'common guy' came in and discussed bribe on my behalf with cops. i ...
+
+  Characteristic: Goal
+  Value: health and fitness
+  Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+  Context: comment on: any tiffin service providing high quality food ? tired of the poor quality ingredients and taste a menu easy to cook/process - healthy and quick....
+
+Challenges and Pain Points:
+------------------------------
+  Characteristic: Challenge
+  Value: financial concerns
+  Source: https://www.reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/
+  Context: comment on: a very odd experience i was caught without helmet and license (close to my home). cops outright wanted to fine me, but a 'common guy' came in and discussed bribe on my behalf with cops. i ...
+
+  Characteristic: Challenge
+  Value: health issues
+  Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/
+  Context: comment on: any tiffin service providing high quality food ? tired of the poor quality ingredients and taste a menu easy to cook/process - healthy and quick....
+
+Lifestyle:
+------------------------------
+  Characteristic: Lifestyle
+  Value: Homebody lifestyle
+  Source: Content analysis
+  Context: Lifestyle indicators: {'active': 0, 'social': 1, 'homebody': 2, 'busy': 0, 'relaxed': 1}
+
